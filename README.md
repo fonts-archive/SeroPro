@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Sero Pro';
@@ -12,7 +12,7 @@ font-family: 'Sero Pro';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SeroPro/SeroPro.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/SeroPro/SeroPro.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 /* normal */
@@ -178,4 +178,12 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeroPro/SeroProItalic-ExtraBold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeroPro/SeroProItalic-ExtraBold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+License type: Free font
 ```
